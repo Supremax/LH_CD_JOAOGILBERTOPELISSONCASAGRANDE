@@ -56,12 +56,12 @@ Resultados Obtidos:
    pip install -r requirements.txt
    
    ou instale manualmente através do cmd:
-   
-   pip install pandas==2.3.2
-   pip install numpy==2.3.2
-   pip install matplotlib==3.10.6
-   pip install seaborn==0.13.2
-   pip install scikit-learn==1.7.1
+    // 
+   pip install pandas==2.3.2 // 
+   pip install numpy==2.3.2 // 
+   pip install matplotlib==3.10.6 // 
+   pip install seaborn==0.13.2 // 
+   pip install scikit-learn==1.7.1 // 
 
 6. Executar o programa
    python Programa/Indicium.py
